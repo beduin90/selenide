@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Selenide.iml" filepath="$PROJECT_DIR$/.idea/Selenide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selenide-project/selenide-project.iml" filepath="$PROJECT_DIR$/selenide-project/selenide-project.iml" />
+    </modules>
+  </component>
+</project>
