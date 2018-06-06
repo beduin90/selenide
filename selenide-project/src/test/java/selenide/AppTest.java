@@ -1,0 +1,17 @@
+package selenide;
+
+import org.junit.Test;
+
+import static junit.framework.Assert.assertTrue;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest {
+
+    @Test
+    public void testApp()
+    {
+        assertTrue( true );
+    }
+}
